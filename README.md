@@ -3,9 +3,12 @@ A repository for the interactive voting booth installation for the Missouri Hist
 
 # Hardware
 Alitove 150led/m ws2812 addressable leds
+
 Raspberry Pi B+
+
 Falcon PiCap
-5v 60A Power Suppy
+
+5v 60A Power Supply
 
 # Software
 Control xLights playlists using MQTT triggers, triggered by input from user apps.
